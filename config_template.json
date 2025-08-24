@@ -1,0 +1,5 @@
+{
+  "api_key": "your_openweathermap_api_key_here",
+  "google_sheets_id": "your_google_sheets_id_here",
+  "cities": ["Amaravati", "Visakhapatnam", "Vijayawada", "Guntur", "Nellore"]
+}
